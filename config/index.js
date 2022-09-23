@@ -30,7 +30,7 @@ export const USER_CONFIG = {
     // 金山每日一句
     CIBA: true,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
     earthyLoveWords: false,
     // 朋友圈文案
@@ -60,17 +60,17 @@ export const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "左左",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "ouAJR5-yfiHQIJWbgVZDWM5R-hY4",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "iTv1npW3zdyIy3ayN1TxU2SEooIjqr0BnhfDTGXcoCo",
       // 所在省份
-      province: "广东",
+      province: "四川",
       // 所在城市
-      city: "肇庆",
+      city: "重庆",
       // 新历生日, 仅用作获取星座运势, 格式必须
-      horoscopeDate: '12-27',
+      horoscopeDate: '3-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
