@@ -98,14 +98,14 @@ export const USER_CONFIG = {
       name: "左左",
       id: "ouAJR5-yfiHQIJWbgVZDWM5R-hY4",
       useTemplateId: "YjCgQI2vge4-RtHU1DHPaPv3972WxWjld_pIIYtQiE",
-      province: "吉林",
-      city: "长春",
+      province: "广东",
+      city: "深圳",
       horoscopeDate: '今日',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [
-       {"type": "*生日", "name": "姐姐", "year": "2000", "date": "01-17"},
-        {"type": "节日", "name": "认识姐姐的纪念日", "year": "2022", "date": "11-10"},
+       {"type": "*生日", "name": "左左", "year": "2000", "date": "01-17"},
+        {"type": "节日", "name": "我的生日", "year": "1999", "date": "08-09"},
       ],
       customizedDateList: []
     },
